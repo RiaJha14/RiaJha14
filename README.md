@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Riya 🤗
 
-<!--
-**RiaJha14/RiaJha14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🌱 Learning JavaScript | Exploring the MERN Stack
+- 💡 Interested in building interactive and useful web applications
+- 🚀 Improving my skills through hands-on projects
+- 🎯 My goal is to become a Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Currently Exploring: React, Node.js, Express.js & MongoDB
+
+### 🚀 My Projects
+- 📝 Resume Builder
+- 💰 Expense Tracker
+- 🔐 Facebook Login Page UI
+- 📚 Study Board Website UI
+
+### 📈 My Goals
+- Strengthen my JavaScript skills
+- Learn the MERN Stack
+- Build real-world projects
+- Contribute to open-source
+
+⭐ Thanks for visiting my profile!
