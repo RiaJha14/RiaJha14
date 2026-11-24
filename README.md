@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="developer-banner.png" width="100%" />
+  <img src="developer-banner.png.png" width="100%" />
 </p>
 
 # Hi, I'm Riya 🤗
