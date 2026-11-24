@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="developer-banner.png" width="100%" />
+</p>
+
 # Hi, I'm Riya 🤗
 
 🎓 BCA Student | Aspiring Full-Stack Developer
